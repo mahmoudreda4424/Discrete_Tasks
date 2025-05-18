@@ -23,9 +23,9 @@ Example: 7 is a prime number because it can only be divided evenly by 1 and 7.
    ```bash
    git clone https://github.com/mahmoudreda4424/Discrete_Tasks.git
 
+---
 
 ## Contact
 Author: [Mahmoud Reda](https://www.facebook.com/MahmoudRedaProfile).
-
 LinkedIn: [My Profile](https://www.linkedin.com/in/mahmoudredaprofile?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDQyruzkYSH%2B28mCBauxAVA%3D%3D).
 
